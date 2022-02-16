@@ -1,0 +1,1 @@
+# Query-to-retrieve-deleted-data-in-orace
